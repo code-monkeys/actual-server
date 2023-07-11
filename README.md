@@ -15,3 +15,4 @@ We have a wide range of documentation on how to use Actual. This is all availabl
 Current feature requests can be seen [here](https://github.com/actualbudget/actual/issues?q=is%3Aissue+label%3A%22needs+votes%22+sort%3Areactions-%2B1-desc). Vote for your favorite requests by reacting 👍 to the top comment of the request.
 
 To add new feature requests, open a new Issue of the "Feature Request" type.
+
